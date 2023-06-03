@@ -1,0 +1,28 @@
+/* 
+  Localizable.strings
+*/
+
+// MARK: Common
+"user.email.id" = "current_user";
+
+// MARK: Alert
+"alert.ok" = "OK";
+"alert.cancel" = "Cancel";
+
+// MARK: Login
+"login.screen.title" = "ToDo App";
+"login.title" = "Login";
+"sign.in.email" = "Email";
+"login.invalid.email" = "Please enter valid email.";
+"sign.in.password" = "Password";
+"login.wrong.password" = "Password needs to have 1 uppercase letter, 1 number, and be a minimum of 8 characters.";
+
+// MARK: Task List
+"task.list.title" = "Task List";
+"button.add.task" = "Add Task";
+
+
+// MARK: Task Details
+"task.details.title" = "Task Details";
+"button.save.task" = "Save";
+"common.error" = "Please enter valid details.";

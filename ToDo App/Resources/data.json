@@ -1,0 +1,12 @@
+{
+  "users": [
+    {
+      "email": "test@gmail.com",
+      "todoList": []
+    },
+    {
+      "email": "test1@gmail.com",
+      "todoList": []
+    }
+  ]
+}
